@@ -1,0 +1,46 @@
+Backend Setup in bash
+cd backend
+
+python -m venv venv
+
+source venv/bin/activate
+
+
+------------------------------
+
+Install dependencies (css)
+
+pip install -r requirements.txt
+
+------------------------------
+
+Run migrations (nginx)
+
+python manage.py migrate
+
+
+------------------------------
+ 
+Start server (nginx)
+
+python manage.py runserver
+
+------------------------------
+
+Frontend Setup (powershell)
+cd frontend
+
+npm install
+npm start
+
+------------------------------
+
+Frontend runs at:
+
+http://localhost:3000
+
+------------------------------
+
+Backend runs at:
+
+http://localhost:8000
