@@ -1,2 +1,48 @@
-# Classroom-Management-System
-A full-stack Classroom Management System built with Django, MongoDB, and React, designed to help schools efficiently manage students, attendance, and academic performance. The platform includes secure authentication, role-based dashboards for Admin, Teacher, and Student, analytics for performance insights, and automated PDF report card generation.
+# Classroom Management System
+
+A full-stack classroom management platform built using:
+
+Backend:
+- Django
+- Django REST Framework
+- MongoDB
+
+Frontend:
+- React
+- TailwindCSS
+- Chart.js
+
+Features:
+- Student Management
+- Attendance Tracking
+- Marks and Exams
+- Role-based Authentication
+- Admin / Teacher / Student Portals
+- Analytics Dashboard
+- PDF Report Cards
+
+Tech Stack:
+Python (Django)
+React
+MongoDB
+JWT Authentication
+
+---
+
+## System Architecture
+
+React Frontend
+        ↓
+Django REST API
+        ↓
+MongoDB Database
+
+---
+
+## Installation
+
+### 1 Clone Repository
+
+git clone https://github.com/yourusername/classroom-management-system.git
+
+cd classroom-management-system
