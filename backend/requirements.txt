@@ -1,0 +1,8 @@
+
+Django
+djangorestframework
+djongo
+pymongo
+djangorestframework-simplejwt
+reportlab
+django-cors-headers
