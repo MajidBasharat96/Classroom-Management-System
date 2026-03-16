@@ -16,3 +16,12 @@ Stack:
 Run with Docker:
 
 docker-compose up --build
+
+
+Future Improvements
+
+AI Student Performance Prediction
+Face Recognition Attendance
+Mobile App (React Native)
+Dockerized Deployment
+Offline Classroom Server
